@@ -11,6 +11,6 @@ public class DemoApplication {
     }
 
     public String getGreeting() {
-        return "Hello, Git Practice!";
+        return "I want Conflict!";
     }
 }
